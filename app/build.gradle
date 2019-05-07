@@ -37,7 +37,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.rratchet.youtu.app"
+        applicationId "com.rratchet.support.tencent.youtu.app"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1

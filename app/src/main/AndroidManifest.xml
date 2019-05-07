@@ -30,7 +30,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools" package="com.rratchet.youtu.app">
+          xmlns:tools="http://schemas.android.com/tools" package="com.rratchet.support.tencent.youtu.app">
 
     <application
             android:allowBackup="true"
